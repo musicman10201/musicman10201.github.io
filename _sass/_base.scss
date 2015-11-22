@@ -227,13 +227,14 @@ pre {
   padding: 10px 20px;
   h1, h2 {
     font-family: 'Oswald', sans-serif;
-    font-weight: 400 !important;
+    margin-bottom: 0;
   }
   h1 {
     font-size: 52px;
   }
   h2 {
     text-align: right;
+    font-weight: 300;
   }
 }
 
@@ -253,4 +254,17 @@ pre {
 .nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
   color: #fff;
   background-color: #222;
+}
+
+#footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 8px;
+  background-color: #eee;
+  border-top: 1px solid #ccc;
+  a {
+    color: #222222 !important;
+  }
 }

@@ -17,10 +17,10 @@ to my sporting endeavors is a passion for eating and drinking, and general Yorks
   USA has to offer. I'm definitely thinking food and drink rather than sports... New Haven apizza, burgers, 
   incredible mexican food, chicken wings drenched in hot sauce, real bbq, delicious IPAs etc.
   
-  <b>Academics</b>
+#### Academics
 
 Before I turned to performance professionally I spent a number of years
- pursuing music academically and am still hugely passionate about it. I count Martin Ennis,
-  Nicholas Marston, James Hepokoski and Daniel Harrison as my most formative mentors and collaborators.
-   I continue to engage with the academia through my teaching in Yale College which provides its own challenges. 
-   If you are interested in my writings please follow the links below.
+pursuing music academically and am still hugely passionate about it. I count Martin Ennis,
+Nicholas Marston, James Hepokoski and Daniel Harrison as my most formative mentors and collaborators.
+I continue to engage with the academia through my teaching in Yale College which provides its own challenges. 
+If you are interested in my writings please follow the links below.
