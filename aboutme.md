@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bio
-permalink: /bio/
+
+permalink: /aboutme/
 ---
 
 Mark Biggins is a conductor and scholar with a particular passion for teaching and education.

@@ -1,0 +1,19 @@
+---
+layout: default
+title: Upcoming Events
+permalink: /events/
+---
+
+
+{% for event in site.data.events %}
+<div class="row event-row">
+  <div class="col-md-4 events-col1">
+    <p class="event-title">{{ event.date }}</p>
+    <p>{{ event.title }}</p>
+  </div>
+  <div class="col-md-8">
+    <p class="event-title">{{ event.description }}</p>
+    <p>{{ event.subdescription }}</p>
+  </div>
+</div>
+{% endfor %}

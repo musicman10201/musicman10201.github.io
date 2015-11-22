@@ -2,6 +2,13 @@
 layout: split_view
 image: "/images/newphoto.jpg"
 ---
+
+<div class="jumbotron">
+<h1>MARK BIGGINS</h1>
+<h2>Conductor</h2>
+<!-- hello -->
+</div>
+      
 I am a conductor and pianist currently hold the HR Taylor Trust Scholarship in conducting at the Royal College
 of Music with Peter Stark and Howard Williams. Just as happy in front of choir as orchestra, I have had the
 opportunity to conduct across with the UK and America with student orchestras and choirs including the Cambridge
