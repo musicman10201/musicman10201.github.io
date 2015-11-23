@@ -1,7 +1,7 @@
 ---
 layout: split_view
 title: Personal
-permalink: funstuff
+permalink: /funstuff/
 image: "/images/newphoto.jpg"
 ---
 
