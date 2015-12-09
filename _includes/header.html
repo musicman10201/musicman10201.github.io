@@ -10,12 +10,24 @@
     </div>
     <div id="navbar" class="collapse navbar-collapse">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="/">Home</a></li>
-        <li><a href="/aboutme/">About Me</a></li>
-        <li><a href="/events/">Events</a></li>
-        <li><a href="/media/">Media</a></li>
-        <li><a href="/funstuff/">Personal</a></li>
-        <li><a href="/contact/">Contact</a></li>
+        <li{% if page.path == 'index.html' %} class="active"{% endif %}>
+          <a href="/">Home</a>
+        </li>
+        <li{% if page.path == 'aboutme.html' %} class="active"{% endif %}>
+          <a href="/aboutme/">About Me</a>
+        </li>
+        <li{% if page.path == 'events.html' %} class="active"{% endif %}>
+          <a href="/events/">Events</a>
+        </li>
+        <li{% if page.path == 'media.html' %} class="active"{% endif %}>
+          <a href="/media/">Media</a>
+        </li>
+        <li{% if page.path == 'funstuff.md' %} class="active"{% endif %}>
+          <a href="/funstuff/">Personal</a>
+        </li>
+        <li{% if page.path == 'contact.md' %} class="active"{% endif %}>
+          <a href="/contact/">Contact</a>
+        </li>
       </ul>
     </div><!--/.nav-collapse -->
   </div>
