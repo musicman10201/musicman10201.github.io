@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+
+    <div class="container main">
+      <ul class="nav nav-pills">
+        <li {% if page.path == 'events.html' %} class="active"{% endif %}>
+          <a href="/events/">Upcoming</a>
+        </li>
+        <li {% if page.path == 'previous_events.html' %} class="active"{% endif %}>
+          <a href="/previous_events/">Previous</a>
+        </li>
+      </ul>
+      {{ content }}
+    </div>
+
+    {% include footer.html %}
+  </body>
+</html>

@@ -22,6 +22,7 @@ body {
   font-feature-settings: "kern" 1;
   font-kerning: normal;
   margin-top: 60px;
+  overflow-y: scroll;
 }
 
 /**
@@ -58,6 +59,10 @@ figcaption {
  */
 h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
+}
+
+h1 {
+  font-size: 24px;
 }
 
 /**
@@ -181,6 +186,7 @@ pre {
 
 .container.main {
   padding-top: 20px;
+  padding-bottom: 40px;
 }
 
 .event-title {
