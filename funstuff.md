@@ -4,6 +4,9 @@ title: Personal
 permalink: /funstuff/
 image: "/images/newphoto.jpg"
 ---
+<div class="jumbotron">
+<h3>PERSONAL</h3>
+</div>
 
 When I'm not teaching, playing and conducting, I am a keen sportsman and enjoy playing badminton 
 competitively as well as more occasional forays onto the squash and tennis courts. I also excel as an 
