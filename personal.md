@@ -20,7 +20,7 @@ to my sporting endeavors is a passion for eating and drinking, and general Yorks
   incredible mexican food, chicken wings drenched in hot sauce, real bbq, delicious IPAs etc.
   
 <div class="jumbotron">
-<h4>ACADEMICS</h4>
+<h3>ACADEMICS</h3>
 </div>
 
 Before I turned to performance professionally I spent a number of years
@@ -28,3 +28,9 @@ pursuing music academically and am still hugely passionate about it. I count Mar
 Nicholas Marston, James Hepokoski and Daniel Harrison as my most formative mentors and collaborators.
 I continue to engage with the academia through my teaching in Yale College which provides its own challenges. 
 If you are interested in my writings please follow the links below.
+
+<a href="images/media/mphil">Rediscovering Brahms's Other Pastoral Symphony</a> <br>
+<a href="images/media/op118">What Exactly did Johannes Order?: An Analysis of Brahms's Op. 118</a> <br>
+<a href="images/media/ives">Learning by Doing: Ives's developing conception of sonata form in the first movement of his First Symphony</a> <br>
+<a href="images/media/rk">An Operatic Premonition in Rimsky Korsakov's Musical Tableau <i>Sadko</i>, Op.5</a> <br>
+<a href="images/media/beethoven.pdf">Unity and its Centrality in Beethoven's Op. 10, No.3</a>
