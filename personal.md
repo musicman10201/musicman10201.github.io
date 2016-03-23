@@ -1,7 +1,7 @@
 ---
 layout: split_view
 title: Personal
-permalink: /funstuff/
+permalink: /personal/
 image: "/images/newphoto.jpg"
 ---
 <div class="jumbotron">
