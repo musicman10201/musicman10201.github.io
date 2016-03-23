@@ -1,7 +1,7 @@
 ---
 layout: split_view
 permalink: /personal/
-image: "/images/newphoto.jpg"
+image: "/images/media/20cropped.jpg"
 ---
 <div class="jumbotron">
 <h3>PERSONAL</h3>
