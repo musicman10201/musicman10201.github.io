@@ -1,6 +1,5 @@
 ---
 layout: split_view
-title: Personal
 permalink: /personal/
 image: "/images/newphoto.jpg"
 ---
