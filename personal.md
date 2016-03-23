@@ -19,7 +19,9 @@ to my sporting endeavors is a passion for eating and drinking, and general Yorks
   USA has to offer. I'm definitely thinking food and drink rather than sports... New Haven apizza, burgers, 
   incredible mexican food, chicken wings drenched in hot sauce, real bbq, delicious IPAs etc.
   
-#### Academics
+<div class="jumbotron">
+<h4>ACADEMICS</h4>
+</div>
 
 Before I turned to performance professionally I spent a number of years
 pursuing music academically and am still hugely passionate about it. I count Martin Ennis,
