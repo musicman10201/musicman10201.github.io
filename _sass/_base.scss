@@ -189,14 +189,22 @@ pre {
   padding-bottom: 40px;
 }
 
-.event-title {
+.event-date {
   margin-bottom: 2px;
   font-size: 20px;
   font-weight: 500;
 }
-.event-subtitle {
+.event-title {
+  font-size: 16px
+  font-weight: 300;
+}
+.event-description {
   margin-bottom: 2px;
   font-size: 18px;
+  font-weight: 300;
+}
+.event-subdescription {
+  font-size: 16px
   font-weight: 300;
 }
 
