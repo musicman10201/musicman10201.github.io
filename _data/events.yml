@@ -1,58 +1,45 @@
 -
-  date: January 19th
+  date: April 28th
   title: Conductor
-  description: RCM Philharmonic
+  description: Echoshed
   subdescription: |
-    Hamlet Fantasy Overture<br>
-    Grieg Piano Concerto with <a href="http://ycat.co.uk/artist/alexander-ullman/">Alexander Ullman</a><br>
-    Amaryllis Fleming Concert Hall, 7.30pm<br>
-    <a href="http://www.rcm.ac.uk/events/listings/details/?id=1071635">Tickets and more information</a>
+    <i>Penillion</>Kieran Timbrell<br>
+    An evening of experimental music at the Hackney Attic. 7.30pm
 -
-  date: January 27th
-  title: Conductor*/Assistant
-  description: David Lang residency with the RCM Symphony
-  subdescription: |
-    simple song #3*<br>
-    mountain (UK premiere)<br>
-    Amaryllis Fleming Concert Hall, 7.30pm<br>
-    <a href="http://www.rcm.ac.uk/events/listings/details/?id=1106520">Tickets and more information</a>
--
-  date: February 1st
-  title: Conductor
-  description: Education Concert with the RCM Symphony
-  subdescription: |
-    An entertaining all-english program<br>
-    from Parry to Sullivan<br>
-    Amaryllis Fleming Concert Hall, 1pm
--
-  date: March 3rd
-  title: Conductor
-  description: Hinchely Wood Academy Music Day
-  subdescription: |
-    A workshop day with students<br>
-    from the academy, culminating in a concert<br>
-    for friends and family.<br>
-    Amaryllis Fleming Concert Hall
--
-  date: March 19th
-  title: Conductor*/Assistant (Peter Stark)
-  description: Croydon Youth Symphony
-  subdescription: |
-    Beethoven Egmont Overture*<br>
-    Strauss <i> Die Fledermaus</i> Overture<br>
-    Oasis Park Shirley Academy, Croydon, 3pm
--
-  date: March 25th
+  date: June 3rd
   title: Conductor
   description: Northwood Choral Society
   subdescription: |
-    Brahms <i>Ein Deutsches Requiem</i><br>
+    Light Music for a Summer's Evening<br>
     Holy Trinity Church, Northwood, 7.30pm
 -
-  date: March 30th
+  date: June 10-21st
   title: Conductor
-  description: Bowes Park Community Choir
+  description: Magnus Festival Conducting Course
   subdescription: |
-    Music by Schuammn, Brahms and more!<br>
+    Intensive study in Orkney with Alexander Vedernikov and the <br>
+    <a href="https://www.nrk.no/kork/the-norwegian-radio-orchestra-1.12413761"> Norwegian Radio Symphony Orchestra</a>
+-
+  date: June 29th
+  title: Conductor
+  description: Masterclass with Jac van Steen
+  subdescription: |
+    Bartok <i>Concerto for Orchestra<br>
+    Royal College of Music<br>
+    West Parry Room, 1pm<br>
+-
+  date: July 1st
+  title: Conductor
+  description: Ligeti and Evans
+  subdescription: |
+    <i>Street Scenes</i>by David Evans*<br>
+    Victoria and Albert Museum<br>
+    South Kensington
+-
+  date: July 13th
+  title: Conductor
+  description: <a href="http://bowesparkcommunitychoir.org">Bowes Park Community Choir</a>
+  subdescription: |
+    Orff, Faure, and Michael Jackson!<br>
     Alexandra Park School, Bounds Green, 8pm
 -
