@@ -1,12 +1,12 @@
 -
   date: November 30th
   title: Conductor
-  description: <i> i, object </i><br>
+  description: i, object<br>
   subdescription: |
     <i>The Man Who Mistook his Wife for a Hat</i> Michael Nyman<br>
     <a href="http://raphaelapapadakis.com/">Raphaela Papadakis</a>, soprano<br>
     <a href="https://www.nathanvaletenor.co.uk/">Nathan Vale</a>, tenor<br>
-    <a href="https://www.joseph-padfield.com/">Joseph Padfield, baritone<br>
+    <a href="https://www.joseph-padfield.com/">Joseph Padfield,</a> baritone<br>
     Institute of Contemporary Arts, 8pm<br>
 -
   date: November 17th
@@ -27,18 +27,9 @@
 -
   date: September-December
   title: Off-stage Conductor
-  description: <i>Aida</i>,Verdi<br>
+  description: <i>Aida</i>
   subdescription: |
-    <i>English National Opera<br>
--
-  date: August 12th-26th
-  title: Conductor
-  description: <a href="https://www.dartington.org/whats-on/summer-school/">Dartington International Summer School</a>
-  subdescription: |
-    Lessons and masterclasses with Sian Edwards and the<br>
-    Festiavl Orchestra<br>
-    Mozart, Symphony No. 41, "Jupiter"<br>
-    Britten, <i>Peter Grimes</i>
+    English National Opera<br>
 -
   date: July 13th
   title: Conductor
