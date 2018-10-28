@@ -1,9 +1,10 @@
 -
-  date: January-March
+  date: August
   title: Assistant Conductor
   description: English National Opera
   subdescription: |
     <b>Britten</b> - <i> Paul Bunyan </i><br>
+    Cond. Matthew Kofi Waldren <br>
     Wilton's Music Hall, Whitechapel<br>
     Dates in August
 -
@@ -34,6 +35,15 @@
     <b>Elgar</b> - Cello Concerto with <a href="https:www.http://www.joylisney.com">Joy Lisney</a>
     Petersfield Festiavl Hall, 7.30pm
 -
+  date: November 17th
+  title: Chorusmaster
+  description: RCM Chorus
+  subdescription: |
+    <b>Faure</b> - <i>Requiem</i><br>
+    Cond. Jac van Steen<br>
+    Amaryllis Fleming Concert Hall, Kensington<br>
+    7.30pm
+-
   date: November-March 2019
   title: Chorusmaster
   description: English National Opera
@@ -42,4 +52,13 @@
     <b>lehar</b> - <i> The Merry Widow </i><br>
     The Coliseum, St. Martin's Lane<br>
     Various Dates
+-
+  date: December 8th
+  title: Conductor
+  description: Epsom Chamber Choir
+  subdescription: |
+    <b>An advent celebration</b><br>
+    Music by Tallis, Rutter, Hildegard, Biebl and Part<br>
+    St. Margaret's Church, Putney<br>
+    6.30pm
 -
