@@ -1,37 +1,43 @@
 -
-  date: October 25th
-  title: Conductor
-  description: RCM Conductors' Concert
-  subdescription: |
-    Ravel <i>trois poemes de Stephane Mallarme</i> and
-    Schreker <i>Kammersymphonie</i><br>
-    Amaryllis Fleming Concert Hall, 7.30pm
--
-  date: November 1st
-  title: Conductor
-  description: Andre Tchaikowsky Study Day
-  subdescription: |
-    Andre Tchaikovsky <i>Ariel</i> with Amy Lyddon, mezzo soprano
-    Inner Parry Room, RCM, 3pm
- -
-  date: November 11th
-  title: Conductor
-  description: RCM New Ensemble
-  subdescription: |
-    Workshop and Reading Session
-    Recital Hall, RCM, 2pm
--
-  date: December 11th
-  title:  Conductor/Assistant (Peter Stark) 
+  date: January 14th
+  title: Assistant Conductor (Peter Stark)
   description: RCM Philharmonic
   subdescription: |
-    Tchaikovsky <i>Nutcracker Suite</i><br>
-    All Saints Church, Kingston 7.30pm
+    Elgar <i>Enigma Varations</i><br>
+    Amaryllis Fleming Concert Hall, 6pm
 -
-  date: December 12th
-  title:  Conductor/Assistant (Peter Stark)
+  date: January 25th
+  title: Assistant Conductor (Martin Andre)
   description: RCM Philharmonic
   subdescription: |
-    Tchaikovsky <i>Nutcracker Suite</i><br>
+    Rachmaninoff <i>Piano Concerto No. 3</i> with<br>
+    <a href="http://www.pisarenkovitaly.com/">Vitaly Pisarenko</a><br>
+    Amaryllis Fleming Concert Hall, 6pm
+-
+  date: February 7th
+  title: Conductor
+  description: RCM Conductor's Concert
+  subdescription: |
+    Sibelius <i>Symphony No. 1</i><br>
     Amaryllis Fleming Concert Hall, 7.30pm
- -
+-
+  date: February 11th
+  title: Conductor
+  description: RCM Dutilleux Festival
+  subdescription: |
+    Dutilleux <i>Les Citations</i> and Ohana <i>Miroirs de Clandestine</i>
+    Amaryllis Fleming Concert Hall, 9.30pm
+-
+  date: Feburary 18th
+  title: Conductor
+  description: Consort 21
+  subdescription: |
+    Gorecki Harpsichord Concerto with Jia Chan<br>
+    East Parry Room, RCM, 5pm
+-
+  date: Feburary 19th
+  title: Conductor
+  description: Masterclass with Alexander Polishchuk
+  subdescription: |
+    Stravinsky <i> Dumbarton Oaks</i><br>
+    Recital Hall, RCM, 10pm
