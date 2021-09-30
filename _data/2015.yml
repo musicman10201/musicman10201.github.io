@@ -3,42 +3,35 @@
   title: Conductor
   description: RCM Conductors' Concert
   subdescription: |
-    Ravel <i>trois poemes de Stephane Mallarme</i> and
+    Ravel <i>trois poemes de Stephane Mallarme</i><br> 
     Schreker <i>Kammersymphonie</i><br>
     Amaryllis Fleming Concert Hall, 7.30pm
 -
-  date: January 25th
-  title: Assistant Conductor (Martin Andre)
+  date: November 1st
+  title: Conductor
+  description: Andre Tchaikowsky Study Day
+  subdescription: |
+    Andre Tchaikovsky <i>Ariel</i> with Amy Lyddon, mezzo soprano
+    Inner Parry Room, RCM, 3pm
+-
+  date: November 11th
+  title: Conductor
+  description: RCM New Ensemble
+  subdescription: |
+    Workshop and Reading Session
+    Recital Hall, RCM, 2pm
+-
+  date: December 10th
+  title:  Conductor/Assistant (Peter Stark)
   description: RCM Philharmonic
   subdescription: |
-    Rachmaninoff <i>Piano Concerto No. 3</i> with<br>
-    <a href="http://www.pisarenkovitaly.com/">Vitaly Pisarenko</a><br>
-    Amaryllis Fleming Concert Hall, 6pm
--
-  date: February 7th
-  title: Conductor
-  description: RCM Conductor's Concert
-  subdescription: |
-    Sibelius <i>Symphony No. 1</i><br>
+    Tchaikovsky <i>Nutcracker Suite</i><br>
     Amaryllis Fleming Concert Hall, 7.30pm
 -
-  date: February 11th
-  title: Conductor
-  description: RCM Dutilleux Festival
+  date: December 11th
+  title:  Conductor/Assistant (Peter Stark) 
+  description: RCM Philharmonic
   subdescription: |
-    Dutilleux <i>Les Citations</i> and Ohana <i>Miroirs de Clandestine</i>
-    Amaryllis Fleming Concert Hall, 9.30pm
--
-  date: Feburary 18th
-  title: Conductor
-  description: Consort 21
-  subdescription: |
-    Gorecki Harpsichord Concerto with Jia Chan<br>
-    East Parry Room, RCM, 5pm
--
-  date: Feburary 19th
-  title: Conductor
-  description: Masterclass with Alexander Polishchuk
-  subdescription: |
-    Stravinsky <i> Dumbarton Oaks</i><br>
-    Recital Hall, RCM, 10pm
+    Tchaikovsky <i>Nutcracker Suite</i><br>
+    All Saints Church, Kingston 7.30pm
+
