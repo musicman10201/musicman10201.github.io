@@ -34,3 +34,9 @@
     St. Martin's Church, Epsom<br>
     7.30pm
 -
+  date: Time
+  title: ME
+  description: Stuff
+  subdescription: |
+    more stuff
+  -
